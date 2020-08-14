@@ -1,7 +1,6 @@
-# Examen_Vargas_david
-Corrección del examen
-NOTAS DEL PARCHE
-Todo lo Nuevo !
+### Corrección del examen
+### NOTAS DEL PARCHE
+### Todo lo Nuevo !
 1.-Se agregó una nueva función que dependiendo de la prioridad de nuestras actividades la fila se pintará de un color distinto,  
 el rojo nos indica que la prioridad es alta, el naranja que la prioridad es media y el amarillo nos indicará que la prioridad es baja
 2.-Se agregó la nueva función de que al dar dar click en agregar actividades, nuestras actividades automáticamente se guardarán en un archivo txt interno en el programa
