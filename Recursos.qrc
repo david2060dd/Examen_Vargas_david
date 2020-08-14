@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Prueba-Final_en_US.qm</file>
+        <file>Recurso/about (2).png</file>
+        <file>Recurso/checklist.png</file>
+        <file>Recurso/delete.png</file>
+        <file>Recurso/logout (2).png</file>
+    </qresource>
+</RCC>
